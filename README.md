@@ -31,10 +31,6 @@ eventEmitter.addListener(Intent_PASS_TO_APP, onScan);
 
 ```
 
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
-
 ## License
 
 MIT
